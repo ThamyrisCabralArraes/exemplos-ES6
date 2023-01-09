@@ -1,4 +1,4 @@
-const luffyStatus = 'triste';
+const luffyStatus = 'entediado';
 
 const isLuffyHappy = new Promise((resolve, reject) => {
   switch (luffyStatus) {
